@@ -1,1 +1,30 @@
-/* Write your CSS here! */
+p {
+    color: white
+
+}
+
+body {
+    margin: 8px;
+    padding: 75px;
+    display: block;
+}
+
+#mainHeading {
+    color: red;
+    padding-left: 200px;
+    font-size: xx-large;
+}
+
+.funParagraph {
+    color: green
+}
+
+html {
+    background-image: url("images/DSC03734.JPG");
+    background-position: center;
+    background-repeat: no-repeat
+}
+
+h3 {
+    color: yellow
+}
